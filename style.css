@@ -3,6 +3,6 @@
 } */
 
 
-html {
-    text-decoration: line-through;
+.homeText {
+    text-decoration: underline;
 }
